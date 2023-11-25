@@ -7,7 +7,7 @@ ruleset=🚀 节点选择,[]DOMAIN-SUFFIX,services.googleapis.cn
 ;设置本人自定义下载线路
 ruleset=DIRECT,[]DOMAIN,libvio.top
 ruleset=DIRECT,[]DOMAIN,greasyfork.org
-ruleset=DIRECT,[]DOMAIN,xbiqugeo.com
+ruleset=DIRECT,[]DOMAIN-SUFFIX,xbiqugeo.com
 ruleset=🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCNProxyIP.list
 ruleset=DIRECT,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=DIRECT,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
