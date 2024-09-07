@@ -8,6 +8,7 @@ ruleset=🚀 节点选择,[]DOMAIN-SUFFIX,services.googleapis.cn
 ruleset=DIRECT,[]DOMAIN-SUFFIX,microsoft.com
 ruleset=DIRECT,[]DOMAIN,cn.bing.com
 ruleset=DIRECT,[]DOMAIN,greasyfork.org
+ruleset=DIRECT,[]DOMAIN,bdric-cdn-tos.1ljx.com,DIRECT ;dm84动漫巴士
 ruleset=🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCNProxyIP.list
 ruleset=DIRECT,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=DIRECT,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
