@@ -10,7 +10,6 @@ ruleset=DIRECT,[]DOMAIN,cn.bing.com
 ruleset=DIRECT,[]DOMAIN,greasyfork.org
 ;dm84动漫巴士
 ruleset=DIRECT,[]DOMAIN-SUFFIX,1ljx.com
-ruleset=DIRECT,[]DOMAIN-SUFFIX,bytecdntp.com
 
 ruleset=🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCNProxyIP.list
 ruleset=DIRECT,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
